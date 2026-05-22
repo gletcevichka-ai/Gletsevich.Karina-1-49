@@ -1,0 +1,10 @@
+JN657193.1: Solanum lycopersicum class I small heat shock protein 20.1 (Sl20.1shsp) and class I small heat shock protein 17.6 (Sl17.6 shsp) genes, complete cds; snoRNA gene, complete sequence; and class I small heat shock protein (Sl20.0shsp) gene, complete cds, GC = 0.3194
+MN366354.1: Solanum lycopersicum terpene synthase 51 (TPS51) gene, complete cds, GC = 0.3363
+MN366355.1: Solanum lycopersicum terpene synthase 52 (TPS52) gene, complete cds, GC = 0.3470
+KC696868.1: Solanum lycopersicum truncated non-smoky glycosyltransferase 2 (NSGT2) mRNA, complete cds, GC = 0.3526
+AF180355.1: Brassica oleracea isolate B265 ABI1 protein (ABI1) gene, partial cds; RPS2 protein (RPS2) and N-myristoyl transferase (N-MYR) genes, complete cds; and CK1a protein (CK1a) gene, partial cds, GC = 0.3817
+EU604644.1: Brassica oleracea var. italica cultivar NAU-Y04A tRNA-Met (trnfM) gene, complete sequence; and ogura cytoplasmic male sterility-related protein gene, complete cds; mitochondrial, GC = 0.3946
+AF180356.1: Brassica oleracea isolate B265 EIF4A protein (EIF4A) gene, partial cds; putative protein gene, complete cds; and casein kinase I-like protein (CK1b) gene, partial cds, GC = 0.3951
+JF412736.1: Solanum lycopersicum magnesium/proton exchanger family member (MHX) mRNA, complete cds, GC = 0.4177
+MH444363.1: Brassica oleracea var. italica histone deacetylase 9 (HDA9) mRNA, complete cds, GC = 0.4361
+MW284389.1: Brassica oleracea var. alboglabra cultivar Sijicutiao UDP-glucosyltransferase 74B1 (UGT74B1) mRNA, complete cds, GC = 0.5111
